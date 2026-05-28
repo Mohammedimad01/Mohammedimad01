@@ -1,6 +1,6 @@
 ## Hi there 👋
 #  About Me:
-🔭 I’m currently working on Data Analytics & Machine Learning Projects<br><br> I’m looking to collaborate on Open Source Analytics Projects and Dashboards<br><br> I’m looking for help with improving my Machine Learning and Data Engineering skills<br><br> I’m currently learning Advanced SQL, Power BI, Python, and Machine Learning<br><br> Ask me about Data Analysis, Business Analytics, Dashboards, SQL, and Python<br><br> Fun fact: I love solving business problems using data-driven insights and enjoy turning raw data into meaningful insights and visual stories
+I’m currently working on Data Analytics & Machine Learning Projects<br><br> I’m looking to collaborate on Open Source Analytics Projects and Dashboards<br><br> I’m looking for help with improving my Machine Learning and Data Engineering skills<br><br> I’m currently learning Advanced SQL, Power BI, Python, and Machine Learning<br><br> Ask me about Data Analysis, Business Analytics, Dashboards, SQL, and Python<br><br> Fun fact: I love solving business problems using data-driven insights and enjoy turning raw data into meaningful insights and visual stories
 
 
 # 💻 Tech Stack:
@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohammed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohammedimad01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
