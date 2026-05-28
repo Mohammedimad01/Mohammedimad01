@@ -11,10 +11,7 @@ I’m currently working on Data Analytics & Machine Learning Projects<br><br> I�
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohammed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammedimad01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=mohammed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohammed&limit=5&theme=dark&combine_all_yearly_contributions=true)
