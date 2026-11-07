@@ -181,10 +181,6 @@ flowchart LR
   <img width="49%" src="https://raw.githubusercontent.com/Mohammedimad01/Mohammedimad01/output/4-productive-time.svg" alt="Productive time" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohammedimad01&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 ### Contribution Snake
 
 <p align="center">
