@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohammed%20Imad&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Business%20Technology%20Analyst&descAlignY=58&descSize=22&animation=fadeIn" alt="Mohammed Imad - Business Technology Analyst" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohammed%20Imad&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Business%20Technology%20Analyst&descAlignY=58&descSize=22&animation=fadeIn" alt="Mohammed Imad, Business Technology Analyst" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Mohammedimad01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EC4B6&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=45&lines=Business+Technology+Analyst+%F0%9F%93%8A;Bridging+Business+Strategy+%26+Technology;SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;Requirements+%E2%86%92+Insights+%E2%86%92+Impact;Building+AI-powered+business+solutions+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EC4B6&center=true&vCenter=true&repeat=true&width=720&height=45&lines=Business+Technology+Analyst;Bridging+Business+Strategy+and+Technology;SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;Requirements+to+Insights+to+Impact;Building+AI-powered+business+solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,19 +17,18 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Analyst at work" />
 
 I'm a **Business Technology Analyst** who sits where **business, data and technology** meet. I translate stakeholder needs into clear requirements, turn raw data into decisions, and ship the tools that make it happen.
 
-- 🎓 **BBA** — Manipal Academy of Higher Education (MAHE), Manipal
-- 💼 **Technical Lead – Software Developer** @ **Qlovix**
-- 🚀 **Founder** of **SkillBridge AI**, an AI employability platform (Aspire pre-seed fund)
-- 🏆 **1st Place**, Product Innovation Challenge (EcoFlow)
-- 🔭 Focus areas: Business Analysis · BI & Reporting · Process Improvement · Generative AI for business
-- 💬 Ask me about **requirements gathering, KPI design, dashboards, SQL and AI automation**
-- ⚡ Fun fact: I enjoy turning messy data and messy processes into clean, visual stories
+- **Technical Lead, Software Developer** at **Qlovix**
+- **Founder** of **SkillBridge AI**, an AI employability platform (Aspire pre-seed fund)
+- **1st Place**, Product Innovation Challenge (EcoFlow)
+- Focus areas: Business Analysis, BI & Reporting, Process Improvement, Generative AI for business
+- Ask me about **requirements gathering, KPI design, dashboards, SQL and AI automation**
+- Fun fact: I enjoy turning messy data and messy processes into clean, visual stories
 
 <br clear="right" />
 
@@ -38,8 +37,8 @@ name: Mohammed Imad
 role: Business Technology Analyst
 looking_for: [Business Technology Analyst, IT Business Analyst, BI Analyst, Analytics Consultant, Data Analyst]
 superpowers:
-  - Requirements → User Stories → UAT
-  - Data Modelling, ETL & KPI Development
+  - Requirements, User Stories and UAT
+  - Data Modelling, ETL and KPI Development
   - Dashboards that executives actually use
   - AI / LLM-powered workflow automation
 motto: "Understand the business. Let the data speak. Build what matters."
@@ -47,20 +46,20 @@ motto: "Understand the business. Let the data speak. Build what matters."
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Organisation | Since |
 |:--|:--|:--|
-| 🧑‍💻 **Technical Lead – Software Developer** | Qlovix (Hybrid) | Sep 2025 |
-| 📊 **Data Analyst Intern** | Meknoid Solutions Pvt. Ltd. | Jul 2025 |
-| 🗂️ **Business Operations & Project Management Intern** | Rainbow Pipes | Apr 2025 |
+| **Technical Lead, Software Developer** | Qlovix (Hybrid) | Sep 2025 |
+| **Data Analyst Intern** | Meknoid Solutions Pvt. Ltd. | Jul 2025 |
+| **Business Operations & Project Management Intern** | Rainbow Pipes | Apr 2025 |
 
 ---
 
-## 🛠️ Skills & Toolkit
+## Skills & Toolkit
 
 <details open>
-<summary><b>📐 Business Analysis</b></summary>
+<summary><b>Business Analysis</b></summary>
 <br>
 
 ![Requirements](https://img.shields.io/badge/Requirements_Gathering-0F2027?style=for-the-badge)
@@ -77,7 +76,7 @@ motto: "Understand the business. Let the data speak. Build what matters."
 </details>
 
 <details open>
-<summary><b>📊 Data & Analytics</b></summary>
+<summary><b>Data & Analytics</b></summary>
 <br>
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -96,7 +95,7 @@ motto: "Understand the business. Let the data speak. Build what matters."
 </details>
 
 <details open>
-<summary><b>📈 BI & Reporting</b></summary>
+<summary><b>BI & Reporting</b></summary>
 <br>
 
 ![Power BI](https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -109,7 +108,7 @@ motto: "Understand the business. Let the data speak. Build what matters."
 </details>
 
 <details open>
-<summary><b>🤖 AI & Technology</b></summary>
+<summary><b>AI & Technology</b></summary>
 <br>
 
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -137,58 +136,56 @@ motto: "Understand the business. Let the data speak. Build what matters."
 
 ---
 
-## 🏅 Certifications & Achievements
+## Certifications & Achievements
 
-<table>
-  <tr>
-    <td align="center">🎓<br><b>Google</b><br>Data Analytics Certificate</td>
-    <td align="center">📘<br><b>DataCamp</b><br>Data Analytics Associate</td>
-    <td align="center">📊<br><b>Microsoft</b><br>Power BI</td>
-  </tr>
-  <tr>
-    <td align="center">🧠<br><b>Oxford Saïd</b><br>AI for Business</td>
-    <td align="center">☁️<br><b>Oracle</b><br>OCI Data Science &amp; AI</td>
-    <td align="center">🏆<br><b>EcoFlow</b><br>1st Place, Product Innovation</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google-Data_Analytics_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics" />
+  <img src="https://img.shields.io/badge/DataCamp-Data_Analytics_Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp Data Analytics Associate" />
+  <img src="https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Microsoft Power BI" />
+  <br/>
+  <img src="https://img.shields.io/badge/Oxford_Sa%C3%AFd-AI_for_Business-002147?style=for-the-badge" alt="Oxford Said AI for Business" />
+  <img src="https://img.shields.io/badge/Oracle-OCI_Data_Science_%26_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI Data Science and AI" />
+  <img src="https://img.shields.io/badge/EcoFlow-1st_Place_Product_Innovation-2EC4B6?style=for-the-badge" alt="1st Place EcoFlow Product Innovation Challenge" />
+</p>
 
 ---
 
-## 🔄 How I Work
+## How I Work
 
 ```mermaid
 flowchart LR
-    A[🗣️ Stakeholder<br/>Needs] --> B[📝 Requirements<br/>& User Stories]
-    B --> C[🗺️ Process<br/>Mapping]
-    C --> D[🧮 Data Modelling<br/>& ETL]
-    D --> E[📊 Dashboards<br/>& KPIs]
-    E --> F[✅ UAT &<br/>Rollout]
-    F --> G[🚀 Business<br/>Impact]
+    A[Stakeholder<br/>Needs] --> B[Requirements<br/>& User Stories]
+    B --> C[Process<br/>Mapping]
+    C --> D[Data Modelling<br/>& ETL]
+    D --> E[Dashboards<br/>& KPIs]
+    E --> F[UAT &<br/>Rollout]
+    F --> G[Business<br/>Impact]
     G -. feedback .-> A
 ```
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammedimad01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedimad01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="100%" src="https://raw.githubusercontent.com/Mohammedimad01/Mohammedimad01/output/0-profile-details.svg" alt="Profile details and contributions" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/Mohammedimad01/Mohammedimad01/output/3-stats.svg" alt="GitHub stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/Mohammedimad01/Mohammedimad01/output/2-most-commit-language.svg" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/Mohammedimad01/Mohammedimad01/output/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="49%" src="https://raw.githubusercontent.com/Mohammedimad01/Mohammedimad01/output/4-productive-time.svg" alt="Productive time" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohammedimad01&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammedimad01&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammedimad01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" />
-</p>
-
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <picture>
@@ -200,7 +197,7 @@ flowchart LR
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   I'm actively exploring <b>Business Technology Analyst</b>, <b>IT Business Analyst</b>, <b>BI Analyst</b> and <b>Analytics Consultant</b> opportunities.<br/>
@@ -212,7 +209,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8C;Turning+data+into+decisions." alt="Thanks for visiting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Turning+data+into+decisions." alt="Thanks for visiting" />
 </p>
 
 <!-- ===================== FOOTER ===================== -->
