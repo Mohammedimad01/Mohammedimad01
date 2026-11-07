@@ -36,12 +36,15 @@ jobs:
           AUTO_PUSH: false
 
       - name: Collect cards
-        run: cp profile-summary-card-output/tokyonight/*.svg dist/
+        run: |
+          mkdir -p public
+          cp dist/*.svg public/
+          cp profile-summary-card-output/tokyonight/*.svg public/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
